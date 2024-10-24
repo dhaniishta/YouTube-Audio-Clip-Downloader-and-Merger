@@ -15,8 +15,5 @@ This Flask-based web application allows users to download YouTube videos of thei
 - **MoviePy** (Audio extraction and merging)
 - **HTML/CSS** for front-end design
 
-## How to Run
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+
 
